@@ -2,7 +2,8 @@
 
 Bu proje, nesne yönelimli programlama (OOP) prensiplerine dayalı olarak Java dilinde geliştirilmiş bir savaş araçları kart oyunudur. Oyuncu ve bilgisayar, belirli kategorilerdeki (hava, kara, deniz) savaş araçları kartlarını seçerek stratejik karşılaşmalar yapar. Oyunun amacı, stratejik kararlarla rakibe üstünlük sağlamaktır.
 
-![Image](https://github.com/user-attachments/assets/ee9c33c4-5fd3-4018-820b-e887c62a321e)
+![197178414-391a5285-2ea4-46ed-b6d9-58dfd9789fd1](https://github.com/user-attachments/assets/90396de8-281f-44dd-9075-ef364d434389)
+
 
 ## Özellikler
 
@@ -33,7 +34,8 @@ Bu proje, nesne yönelimli programlama (OOP) prensiplerine dayalı olarak Java d
 - **Rastgele Kart Seçimi**:
   - Bilgisayar kart seçimlerini rastgele yapar.
 
-![Image](https://github.com/user-attachments/assets/16bd2fb5-49e3-4a31-a0dc-169cd7a04dba)
+![image](https://github.com/user-attachments/assets/5851274e-6631-40bc-a124-d77af37bbf8f)
+
 
 
 ## Kurulum
